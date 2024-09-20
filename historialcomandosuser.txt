@@ -1,0 +1,41 @@
+mkdir repogit
+pwd
+cd repogit
+mkdir -p {carpetauno,carpetados}
+ls
+tree
+su
+ls
+mkdir -p ejemplo/{1,2}
+ls
+ls ejemplo
+tree
+cd ..
+pwd
+su
+pwd
+su
+mkdir yo
+rm
+ls
+cd
+sudo useradd yo
+su
+ls
+pwd
+mkdir yo
+su
+2
+su
+cd
+ls
+pwd
+cd repogit
+su
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls
+cat datos_usuario.txt 
+man echo
+ls
+man rm
+exit
